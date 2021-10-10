@@ -15,7 +15,8 @@ I have always had an insatiable appetite for practical work, so I did my bachelo
 Yep! It was time for a new experience; do you have any idea better than AI? of course not! <br />
 So I moved from EE to AI in order to be more useful, as well as having more fun, and considering my passion for sociology and psychology, I guess it allows me to deploy engineering in our daily life...
 
-So here I am... <br />
+
+And here I am... <br />
 An AI engineer with the following interests and hobbies:
 
 ### Content is Imortant
