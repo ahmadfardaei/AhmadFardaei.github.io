@@ -23,7 +23,7 @@ An AI engineer with the following interests and hobbies:
 <div class="box">
     <table border="0">
      <tr>
-        <td><span class="image left"><img src="{{ "/images/football-player.png=15x15" | absolute_url }}" alt="" /></span> Playing football <br />
+        <td><span class="image left"><img src="{{ "/images/football-player.png" | absolute_url }}" width="20" height="20" alt="" /></span> Playing football <br />
          Msuic</td>
         <td>Reading <br />
          Writing</td>
