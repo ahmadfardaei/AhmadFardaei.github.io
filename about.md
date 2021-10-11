@@ -30,4 +30,7 @@ An AI engineer with the following interests and hobbies:
     </table>
 </div>
 
-<a href="#" class="button">Download CV (https://drive.google.com/file/d/11vs_i5iza_3drZ2nhNcBKc2Zjd2yd5Ew/view?usp=sharing)</a>
+                <ul class="actions">
+                  <li><a href="https://drive.google.com/file/d/11vs_i5iza_3drZ2nhNcBKc2Zjd2yd5Ew/view?usp=sharing" class="button">Download CV</a></li>
+                </ul>
+
