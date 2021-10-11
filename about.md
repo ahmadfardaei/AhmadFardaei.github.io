@@ -19,7 +19,6 @@ So I moved from EE to AI in order to be more useful, as well as having more fun,
 And here I am... <br />
 An AI engineer with the following interests and hobbies:
 
-
 <div class="box">
     <table border="0">
      <tr>
@@ -31,3 +30,4 @@ An AI engineer with the following interests and hobbies:
     </table>
 </div>
 
+<a href="#" class="button">Download CV (https://drive.google.com/file/d/11vs_i5iza_3drZ2nhNcBKc2Zjd2yd5Ew/view?usp=sharing)</a>
