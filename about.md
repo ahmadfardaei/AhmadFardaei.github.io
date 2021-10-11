@@ -23,8 +23,10 @@ An AI engineer with the following interests and hobbies:
 <div class="box">
     <table border="0">
      <tr>
-        <td>Lorem ipsum ...</td>
-        <td>Lorem ipsum ...</td>
+        <td>Playing football <br />
+         Msuic</td>
+        <td>Reading <br />
+         Writing</td>
      </tr>
     </table>
 </div>
