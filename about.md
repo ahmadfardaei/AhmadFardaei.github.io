@@ -19,14 +19,14 @@ So I moved from EE to AI in order to be more useful, as well as having more fun,
 And here I am... <br />
 An AI engineer with the following interests and hobbies:
 
-### Content is Imortant
+
 <div class="box">
     <table border="0">
      <tr>
         <td><span class="image left"><img src="{{ "/images/football-player.png" | absolute_url }}" width="25" height="25" alt="" /></span> Playing football <br />
-         <span class="image left"><img src="{{ "/images/football-player.png" | absolute_url }}" width="25" height="25" alt="" /></span> Msuic</td>
-        <td><span class="image left"><img src="{{ "/images/football-player.png" | absolute_url }}" width="25" height="25" alt="" /></span> Reading <br />
-         <span class="image left"><img src="{{ "/images/football-player.png" | absolute_url }}" width="25" height="25" alt="" /></span> Writing</td>
+         <span class="image left"><img src="{{ "/images/music-video.png" | absolute_url }}" width="25" height="25" alt="" /></span> Msuic</td>
+        <td><span class="image left"><img src="{{ "/images/research.png" | absolute_url }}" width="25" height="25" alt="" /></span> Reading <br />
+         <span class="image left"><img src="{{ "/images/book.png" | absolute_url }}" width="25" height="25" alt="" /></span> Writing</td>
      </tr>
     </table>
 </div>
