@@ -30,5 +30,5 @@ An AI engineer with the following interests and hobbies:
 </div>
 
 <footer>
-    <a href="https://drive.google.com/file/d/11vs_i5iza_3drZ2nhNcBKc2Zjd2yd5Ew/view?usp=sharing" class="button">Download CV</a>
+   
 </footer>
