@@ -18,7 +18,6 @@ So I moved from EE to AI in order to be more useful, as well as having more fun,
 <br />
 And here I am... <br />
 An AI engineer with the following interests and hobbies:
-
 <div class="box">
     <table border="0">
      <tr>
