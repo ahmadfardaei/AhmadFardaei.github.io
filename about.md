@@ -13,7 +13,7 @@ sitemap:
 
 I have always had an insatiable appetite for practical work, so I did my bachelor's in *electrical engineering* which didn't satisfy me! <br />
 Yep! It was time for a new experience; do you have any idea better than **AI**? of course not! <br />
-So I moved from EE to AI in order to be more useful, as well as having more fun, and considering my passion for *sociology* and *psychology*, I guess it allows me to deploy engineering in our daily life...
+So I moved from EE to AI in order to be more useful, as well as having more fun, and considering my passion for *sociology* and *psychology*, I guess it allows me to be more creative and deploy engineering in our daily life...
 
 <br />
 And here I am... <br />
@@ -21,8 +21,11 @@ An AI engineer with the following interests and hobbies:
 
 ### Content is Imortant
 <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
+    <table border="0">
+     <tr>
+        <td>Lorem ipsum ...</td>
+        <td>Lorem ipsum ...</td>
+     </tr>
+    </table>
 </div>
 
