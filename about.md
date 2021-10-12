@@ -21,6 +21,8 @@ An AI engineer with the following interests and hobbies:
     </table>
 </div>
 
-<footer>
-   
-</footer>
+                                                                        <footer>
+                   <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Resume</a></li>
+                </ul>
+                                                                        </footer>
