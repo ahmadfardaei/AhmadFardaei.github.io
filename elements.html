@@ -16,15 +16,30 @@ sitemap:
 <!-- Image -->
 
 
-			<a href="https://pagedart.com">
-			<img src="{{ "/images/img07.png" | absolute_url }}" alt="" /> PageDart Home 
-			</a>
-			</br>
-			<a href="https://google.com">
-			<img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /> google
-			</a>			
-			<!-- Break -->
-			<img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" />
-			<img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" />
-		
+		<span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span>
+  <div class="box alt">
+    <div class="row 50% uniform">
+      
+      <div class="4u"><span class="image fit"> <img src="{{ "/images/img01.png" | absolute_url }}" alt="Workplace" usemap="#workmap" width="400" height="400">
+	<map name="workmap">
+  	<area shape="rect" coords="0,0,400,400" alt="Computer" href="google.com">
+	</map></span></div>
+     
+      <div class="4u"><span class="image fit"> <img src="{{ "/images/img02.png" | absolute_url }}" alt="A2C" usemap="#A2C" width="400" height="400">
+      <map name="A2C">
+      <area shape="rect" coords="0,0,400,400" alt="A2C" href="medium.com">
+      </map></span></div>
 
+      <div class="4u$"><span class="image fit"> <img src="{{ "/images/img03.png" | absolute_url }}" alt="img" usemap="#img" width="400" height="400">
+      <map name="img">
+      <area shape="rect" coords="0,0,400,400" alt="img" href="medium.com">
+      </map></span></div>
+
+      <!-- Break -->
+      <div class="4u"><span class="image fit"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
+      <div class="4u$"><span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span></div>
+      <!-- Break -->
+
+    </div>
+  </div>
