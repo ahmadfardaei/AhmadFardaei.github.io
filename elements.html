@@ -16,7 +16,6 @@ sitemap:
 <!-- Image -->
 
 
-		<span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span>
   <div class="box alt">
     <div class="row 50% uniform">
       
@@ -36,9 +35,18 @@ sitemap:
       </map></span></div>
 
       <!-- Break -->
-      <div class="4u"><span class="image fit"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span></div>
-      <div class="4u"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
-      <div class="4u$"><span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span></div>
+	    
+      <div class="4u"><span class="image fit"> <img src="{{ "/images/img04.png" | absolute_url }}" alt="game" usemap="#game" width="400" height="400">
+	<map name="game">
+  	<area shape="rect" coords="0,0,400,400" alt="game" href="google.com">
+	</map></span></div>
+     
+      <div class="4u"><span class="image fit"> <img src="{{ "/images/img05.png" | absolute_url }}" alt="robot" usemap="#robot" width="400" height="400">
+      <map name="A2C">
+      <area shape="rect" coords="0,0,400,400" alt="robot" href="medium.com">
+      </map></span></div>
+
+
       <!-- Break -->
 
     </div>
